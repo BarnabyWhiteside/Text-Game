@@ -1,0 +1,6 @@
+- Access Databases
+- Movement
+- Player creation
+- Combat
+- Inventorying
+- 

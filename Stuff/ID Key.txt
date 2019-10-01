@@ -1,0 +1,6 @@
+Item ID: 1000 - 1999
+Monster ID: 2000 - 2999
+Region ID: 3000 - 3999
+Location ID: 4000 - 4999
+Room ID: 5000 - 5999
+Shop ID: 6000 - 6999
